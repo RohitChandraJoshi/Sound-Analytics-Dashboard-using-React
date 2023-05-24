@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Sound-Analytics-Dashboard-using-React/static/css/main.f9f0bb7e.css",
+    "main.js": "/Sound-Analytics-Dashboard-using-React/static/js/main.d1782544.js",
+    "static/js/787.87c99beb.chunk.js": "/Sound-Analytics-Dashboard-using-React/static/js/787.87c99beb.chunk.js",
+    "static/media/s1.png": "/Sound-Analytics-Dashboard-using-React/static/media/s1.4622161b611961b5b738.png",
+    "static/media/s5.png": "/Sound-Analytics-Dashboard-using-React/static/media/s5.5ef856dc39eef37992ad.png",
+    "static/media/s2.png": "/Sound-Analytics-Dashboard-using-React/static/media/s2.b33c898f99a6dacb3b8a.png",
+    "static/media/s3.png": "/Sound-Analytics-Dashboard-using-React/static/media/s3.c212aa785cf4dd32b62f.png",
+    "static/media/s4.png": "/Sound-Analytics-Dashboard-using-React/static/media/s4.cc4372917512f3349b91.png",
+    "index.html": "/Sound-Analytics-Dashboard-using-React/index.html",
+    "main.f9f0bb7e.css.map": "/Sound-Analytics-Dashboard-using-React/static/css/main.f9f0bb7e.css.map",
+    "main.d1782544.js.map": "/Sound-Analytics-Dashboard-using-React/static/js/main.d1782544.js.map",
+    "787.87c99beb.chunk.js.map": "/Sound-Analytics-Dashboard-using-React/static/js/787.87c99beb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9f0bb7e.css",
+    "static/js/main.d1782544.js"
+  ]
+}
